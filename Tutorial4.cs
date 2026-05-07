@@ -1,6 +1,5 @@
 // Under LICENSE: Radioxians OS LICENSE (Open Source) (For more info, view the file LICENSE)
 
-// © 2026 Radioxians Studios. All Rights Reserved.
 // v 1.0
 // You can study, observe, and do whatever you want on this script
 // This script is on Git Hub
